@@ -1,4 +1,4 @@
-# Mehmet VARAN 181805009
+# Mehmet VARAN
 def jacobiFunc(u,v,w):
     i = 0
     while i < 3:
