@@ -1,4 +1,4 @@
-# MEHMET VARAN 181805009
+# MEHMET VARAN
 
 def func(x):
     return 3 * (x * x * x) + (x * x) - x - 5
