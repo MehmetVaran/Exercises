@@ -1,4 +1,4 @@
-# Mehmet VARAN 181805009
+# Mehmet VARAN 
 import math
 # resultapp and resultreal have first term of the taylor series. I can't create a function that has first term in it. So I take it outside of the function.
 
