@@ -1,4 +1,4 @@
-# MEHMET VARAN 181805009
+# MEHMET VARAN 
 import numpy
 
 # Defining function to integrate
