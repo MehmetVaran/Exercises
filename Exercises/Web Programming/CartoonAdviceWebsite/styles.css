@@ -1,0 +1,20 @@
+html,body{margin:0;padding:0}
+body{font: 80% cursive,sans-serif;text-align:center; background-image: url("images/background.jpg");}
+p{margin:0 10px 10px}
+a{text-decoration:none; color:#1BC9DE; max-width: 35px;}
+div#header{background-color:#000000;}
+div#header h1{height:90px;line-height:80px;margin:0;padding-left:10px; color:#1BC9DE;}
+div#container{text-align:left; width:700px;margin:0 auto}
+div#wrapper{background:#ffffff; float:left;width:100%}
+div#content p{line-height:1.4; background: #ffffff; color:#1BC9DE;}
+div#leftSection{background:#baeef0; float:left;width:150px;margin-left:-700px; height: 295px;}
+div#leftSection ul{padding:0; margin-left: 25px;}
+div#leftSection li{margin-bottom:5px;}
+div#rightSection{background:#baeef0; float:left;width:150px;margin-left:-150px; height: 295px;}
+div#rightSection ol{padding-left: 25px;}
+div#footer{background:#ffffff; bottom: 0;}
+div#footer p{margin:0;padding:5px 10px; bottom: 0;}
+div#content{margin: 0 150px}
+div#footer{clear:left;width:100%}
+div#pollContent{margin-left: 160px;}
+div#assigmentOne{size: 22px; font-family: 'Comic Sans MS', sans-serif; margin-left: 150px; max-width: 400px; text-align: center; color: black; background-color: white; height: 295px;}
