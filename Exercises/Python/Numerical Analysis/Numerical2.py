@@ -1,4 +1,4 @@
-# Mehmet VARAN 181805009
+# Mehmet VARAN
 import numpy as np
 
 def gaussElimin(a, b):
