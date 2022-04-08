@@ -1,4 +1,4 @@
-# MEHMET VARAN 181805009
+# MEHMET VARAN
 
 #declaring function values as list
 myfunc = [0.85866,0.86289,0.86710,0.87129]
